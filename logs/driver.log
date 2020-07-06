@@ -1,0 +1,2 @@
+Wed Jul  1 18:41:38 2020[ERROR]Client execution RuntimeError: TABLE_REQUEST: java.lang.IllegalArgumentException: Error: at (1, 93) missing ')' at '<EOF>', at line 1:93
+rule stack: [parse, statement, create_table_statement]
